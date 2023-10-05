@@ -1,2 +1,2 @@
-# MC-simulation-using-brownian-motion
+# Monte-Carlo-simulation-using-brownian-motion
 Approach idea taken from Youtube and github of farshad-finance
